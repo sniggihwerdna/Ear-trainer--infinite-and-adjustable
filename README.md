@@ -1,0 +1,1 @@
+This is an ear-training program.  It produces random notes indefinitely.  The available choice of noes is easily adjusted.  The goal is to have a program that allows user to stay in a pitch focused environment indefinitely
